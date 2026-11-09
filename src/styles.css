@@ -1,4 +1,4 @@
-@import 'tailwindcss';
+@import "tailwindcss";
 
 @theme {
     --color-ink: #080707;
@@ -6,8 +6,8 @@
     --color-crimson: #c8102e;
     --color-ivory: #e8ded5;
     --color-muted: #a99991;
-    --font-serif: 'Playfair Display', Georgia, serif;
-    --font-sans: 'DM Sans', Arial, sans-serif;
+    --font-serif: "Playfair Display", Georgia, serif;
+    --font-sans: "DM Sans", Arial, sans-serif;
 }
 
 @layer base {

@@ -1,13 +1,14 @@
 // ---------------------------------------------------------------------------------------------------------------------
 // Imports
 // ---------------------------------------------------------------------------------------------------------------------
-import {useState} from 'react'
+
 import {Heart, LockKeyhole, ShieldCheck, Sparkles} from 'lucide-react'
-import {SiteNav} from './components/SiteNav'
+import {useState} from 'react'
 import {Hero} from './components/Hero'
 import {LaunchSection} from './components/LaunchSection'
-import {SocialSection} from './components/SocialSection'
 import {SiteFooter} from './components/SiteFooter'
+import {SiteNav} from './components/SiteNav'
+import {SocialSection} from './components/SocialSection'
 
 // ---------------------------------------------------------------------------------------------------------------------
 // Code
